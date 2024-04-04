@@ -1,8 +1,6 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "hardhat/console.sol";
-
 import { CBORSpec as Spec } from "./CBORSpec.sol";
 import { CBORPrimitives as Primitives } from "./CBORPrimitives.sol";
 import { CBORDataStructures as DataStructures } from "./CBORDataStructures.sol";
